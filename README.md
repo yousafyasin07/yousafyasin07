@@ -1,25 +1,28 @@
-# 👋 Hey, I'm Muhammad Yousaf!
+# 👋 Hi, I'm Muhammad Yousaf
 
-### 💻 Computer Science Student | Aspiring Software Developer
+### BS Computer Science Student | Aspiring Software Developer
 
-I'm a Computer Science student passionate about programming, technology, and building meaningful digital solutions.
+Welcome to my GitHub profile!
 
-Currently exploring software development, Python programming, Artificial Intelligence, Machine Learning, and modern web technologies while continuously improving my problem-solving skills.
+I'm a Computer Science student passionate about programming, software development, and exploring emerging technologies. I enjoy learning new concepts, experimenting with code, and building practical projects.
+
+My current interests include **Python, Artificial Intelligence, Web Development, AI Engineering and Software Engineering**.
 
 ---
 
 ## 🚀 About Me
 
-- Pursuing a Bachelor's degree in Computer Science at KFUEIT.
+- BS Computer Science Student
 - Interested in Software Engineering and Application Development.
-- Learning and working with Python.
+- Working with Python and exploring its applications.
+- Building my foundation in Web Development.
 - Exploring Artificial Intelligence and Machine Learning.
-- Interested in Web Development and modern technologies.
-- Strengthening my foundations in Data Structures and Algorithms.
--  Believe in continuous learning and practical development.
+- Interested in problem-solving and software design.
+- Continuously learning and improving my technical skills.
 
+---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technologies & Tools
 
 ### Programming Languages
 
@@ -30,52 +33,85 @@ Currently exploring software development, Python programming, Artificial Intelli
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Web Technologies
+### Web Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Tools & Development Environment
+### Frameworks & API Development
 
 <p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Command_Line-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </p>
+
+---
+
+## 🧠 Computer Science Fundamentals
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+- Computer Organization & Assembly Language
+- Theory of Automata
+
+---
+
+## 🤖 AI & Machine Learning
+
+Currently exploring:
+
+- Artificial Intelligence fundamentals
+- Machine Learning concepts
+- Large Language Models (LLMs)
+- Local AI models using Ollama
 
 ---
 
 ## 📚 Currently Learning
 
-- Python Programming & OOP
-- Data Structures and Algorithms
-- Artificial Intelligence & Machine Learning
-- Software Development Fundamentals
-- Database Management
-- Modern Web Development
+- Improving Python programming skills.
+- Strengthening Object-Oriented Programming.
+- Practicing Data Structures and Algorithms.
+- Exploring AI and Machine Learning.
+- Learning API development with FastAPI.
+- Improving JavaScript and web development skills.
 
 ---
 
-## 🎯 My Goals
+## 🚀 Projects & Practical Work
 
-- Build strong programming fundamentals.
-- Develop practical software projects.
-- Explore AI and Machine Learning applications.
-- Improve problem-solving and analytical thinking.
-- Contribute to open-source projects.
-- Grow as a professional software developer.
+I enjoy learning through hands-on practice and building small projects.
+
+My development work currently includes:
+
+- 🌐 Basic websites using HTML, CSS and JavaScript.
+- 🐍 Python programming exercises and applications.
+- 💻 Programming experiments and university coursework.
+- 🧩 Small projects focused on learning and improving development skills.
+
+I'm continuously working towards building more practical and meaningful software projects.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousafyaseen17-hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafyaseen17-hub&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yousafyaseen17-hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafyaseen17-hub&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" height="170" />
 </p>
 
 <p align="center">
@@ -87,22 +123,22 @@ Currently exploring software development, Python programming, Artificial Intelli
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/muhammad-yousaf-4bb2193ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="https://github.com/yousafyaseen17-hub">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-yousaf-4bb2193ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-I'm always open to learning opportunities, meaningful collaborations, and connecting with fellow developers.
+I'm always interested in learning opportunities, collaborating on projects, and connecting with fellow developers.
 
 ---
 
 <p align="center">
-  <i>"Great things are built one line of code at a time."</i>
+  <i>"Learn continuously. Build consistently. Improve relentlessly."</i>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile!
+  ⭐ Thanks for visiting my profile!
 </p>
