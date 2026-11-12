@@ -63,11 +63,7 @@ My current interests include **Python, Artificial Intelligence, Web Development,
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms (DSA)
 - Database Management Systems (DBMS)
-- Operating Systems
 - Computer Networks
-- Computer Organization & Assembly Language
-- Theory of Automata
-
 ---
 
 ## 🤖 AI & Machine Learning
